@@ -1,0 +1,12 @@
+# Music-Player-App
+
+# NOTE: 
+THIS IS A MUSIC-PLAYER-APP. IN THIS BUILD ITS ONLY LIMITED TO 3 SONGS.
+YOU HAVE TO MANUALLY UPLOAD SONGS AND THE COVER IMAGE INTO THE JS FILE 'const songs' TO PLAY MORE MUSIC.
+THE MORE SONGS YOU UPLOAD, THE MORE YOU YOU CAN LISTEN TO.
+
+# LINK TO WEBSITE:
+https://music-player-webapp.vercel.app/
+
+# SCREENSHOT:
+![Play-Music](https://github.com/Mitalicops/Music-Player-App/assets/120451953/27d1cd1f-ff4c-4b62-8d34-1b5690ef93d9)
